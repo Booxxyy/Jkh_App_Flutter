@@ -1,6 +1,8 @@
 # flutter_zhkh
 
 A new Flutter project.
+Login: admin
+Password: admin
 
 ## Getting Started
 
